@@ -45,8 +45,9 @@
 - Произвести подготовку данных для работы с алгоритмом линейной регрессии. 10 видов данных были установлены случайным образом, и данные находились в линейной зависимости. Данные преобразуются в формат массива, чтобы их можно было вычислить напрямую при использовании умножения и сложения.
 
 ```py
+![image](https://user-images.githubusercontent.com/91984484/191814201-43c6e764-5748-4830-8849-2280afb7f6b6.png)
 
-In [ ]:
+In [ ]:
 #Import the required modules, numpy for calculation, and Matplotlib for drawing
 import numpy as np
 import matplotlib.pyplot as plt
