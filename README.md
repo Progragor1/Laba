@@ -43,25 +43,11 @@
 ### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач
 Ход работы:
 - Произвести подготовку данных для работы с алгоритмом линейной регрессии. 10 видов данных были установлены случайным образом, и данные находились в линейной зависимости. Данные преобразуются в формат массива, чтобы их можно было вычислить напрямую при использовании умножения и сложения.
+![0VoEdD7CXTY](https://user-images.githubusercontent.com/91984484/191815303-feee3d5a-3f3b-4582-81e3-f3fb176950ac.jpg)
 
 ```py
-![image](https://user-images.githubusercontent.com/91984484/191814201-43c6e764-5748-4830-8849-2280afb7f6b6.png)
 
-In [ ]:
-#Import the required modules, numpy for calculation, and Matplotlib for drawing
-import numpy as np
-import matplotlib.pyplot as plt
-#This code is for jupyter Notebook only
-%matplotlib inline
-
-# define data, and change list to array
-x = [3,21,22,34,54,34,55,67,89,99]
-x = np.array(x)
-y = [2,22,24,65,79,82,55,130,150,199]
-y = np.array(y)
-
-#Show the effect of a scatter plot
-plt.scatter(x,y)
+print("Hello World")
 
 ```
 
