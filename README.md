@@ -46,7 +46,7 @@
 
 ![eBVLzJWXyyw](https://user-images.githubusercontent.com/91984484/191895780-df39a31c-4905-409e-8dd1-47e6f4e7e321.jpg)
 
-### -Привести скрнишота вывода сообщение "Hello World" в консоли Unity.
+### -Привести скриншоты вывода сообщение "Hello World" в консоли Unity.
 
 
 ## Задание 2
