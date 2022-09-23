@@ -153,6 +153,10 @@ oEditor.CreateSphere(
 ![GoBqAdbDIX4](https://user-images.githubusercontent.com/91984484/191919311-d4d5f4df-b6a2-4152-b023-ee4888d06d70.jpg)
 
 
+#### А если параметр Lr будет слишком маленьким, то данные будут некорректные:
+
+![GL-pQMui38Q](https://user-images.githubusercontent.com/91984484/191921581-3b035116-59f6-4626-8e0e-5dcdd15d3653.jpg)
+
 
 ## Выводы
 ### В результате работы:
